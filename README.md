@@ -20,7 +20,7 @@ Ensure you have the following installed:
 ### Steps to Run the Project
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/Rohitsah6372/first-ai-Spring-project.git
    cd first_ai_project
    ```
 2. Build the project using Maven:
